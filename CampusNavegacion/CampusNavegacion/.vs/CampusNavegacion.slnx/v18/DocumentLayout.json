@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1778253-C018-46D0-B23E-272B7E0D3D85}|CampusNavegacion\\CampusNavegacion.csproj|C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\campusnavegacion\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1778253-C018-46D0-B23E-272B7E0D3D85}|CampusNavegacion\\CampusNavegacion.csproj|solutionrelative:campusnavegacion\\minheap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1778253-C018-46D0-B23E-272B7E0D3D85}|CampusNavegacion\\CampusNavegacion.csproj|C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\campusnavegacion\\tablahash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1778253-C018-46D0-B23E-272B7E0D3D85}|CampusNavegacion\\CampusNavegacion.csproj|solutionrelative:campusnavegacion\\tablahash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1778253-C018-46D0-B23E-272B7E0D3D85}|CampusNavegacion\\CampusNavegacion.csproj|C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\campusnavegacion\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1778253-C018-46D0-B23E-272B7E0D3D85}|CampusNavegacion\\CampusNavegacion.csproj|solutionrelative:campusnavegacion\\grafo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1778253-C018-46D0-B23E-272B7E0D3D85}|CampusNavegacion\\CampusNavegacion.csproj|c:\\users\\mario\\downloads\\campusnavegacion\\campusnavegacion\\campusnavegacion\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1778253-C018-46D0-B23E-272B7E0D3D85}|CampusNavegacion\\CampusNavegacion.csproj|solutionrelative:campusnavegacion\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1778253-C018-46D0-B23E-272B7E0D3D85}|CampusNavegacion\\CampusNavegacion.csproj|C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\campusnavegacion\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1778253-C018-46D0-B23E-272B7E0D3D85}|CampusNavegacion\\CampusNavegacion.csproj|solutionrelative:campusnavegacion\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1778253-C018-46D0-B23E-272B7E0D3D85}|CampusNavegacion\\CampusNavegacion.csproj|C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\campusnavegacion\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1778253-C018-46D0-B23E-272B7E0D3D85}|CampusNavegacion\\CampusNavegacion.csproj|solutionrelative:campusnavegacion\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1778253-C018-46D0-B23E-272B7E0D3D85}|CampusNavegacion\\CampusNavegacion.csproj|C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\campusnavegacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1778253-C018-46D0-B23E-272B7E0D3D85}|CampusNavegacion\\CampusNavegacion.csproj|solutionrelative:campusnavegacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1778253-C018-46D0-B23E-272B7E0D3D85}|CampusNavegacion\\CampusNavegacion.csproj|C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\campusnavegacion\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1778253-C018-46D0-B23E-272B7E0D3D85}|CampusNavegacion\\CampusNavegacion.csproj|solutionrelative:campusnavegacion\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\CampusNavegacion\\MainForm.cs",
+              "RelativeDocumentMoniker": "CampusNavegacion\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\CampusNavegacion\\MainForm.cs [Design]",
+              "RelativeToolTip": "CampusNavegacion\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T16:34:20.7Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\CampusNavegacion\\MainForm.cs",
+              "RelativeDocumentMoniker": "CampusNavegacion\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\CampusNavegacion\\MainForm.cs",
+              "RelativeToolTip": "CampusNavegacion\\MainForm.cs",
+              "ViewState": "AgIAALsAAAAAAAAAAAAwwMwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T17:21:15.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MinHeap.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\CampusNavegacion\\MinHeap.cs",
+              "RelativeDocumentMoniker": "CampusNavegacion\\MinHeap.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\CampusNavegacion\\MinHeap.cs",
+              "RelativeToolTip": "CampusNavegacion\\MinHeap.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wD4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T17:16:30.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TablaHash.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\CampusNavegacion\\TablaHash.cs",
+              "RelativeDocumentMoniker": "CampusNavegacion\\TablaHash.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\CampusNavegacion\\TablaHash.cs",
+              "RelativeToolTip": "CampusNavegacion\\TablaHash.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T17:15:59.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Grafo.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\CampusNavegacion\\Grafo.cs",
+              "RelativeDocumentMoniker": "CampusNavegacion\\Grafo.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\CampusNavegacion\\Grafo.cs",
+              "RelativeToolTip": "CampusNavegacion\\Grafo.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwHYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T17:17:29.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\CampusNavegacion\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CampusNavegacion\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\CampusNavegacion\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "CampusNavegacion\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T17:23:23.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\CampusNavegacion\\Program.cs",
+              "RelativeDocumentMoniker": "CampusNavegacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\CampusNavegacion\\Program.cs",
+              "RelativeToolTip": "CampusNavegacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T17:17:55.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\CampusNavegacion\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "CampusNavegacion\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Mario\\Downloads\\CampusNavegacion\\CampusNavegacion\\CampusNavegacion\\MainForm.Designer.cs",
+              "RelativeToolTip": "CampusNavegacion\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T17:20:14.362Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
